@@ -3,7 +3,7 @@
     "name": "John Doe",
     "age": 30,
     "city": "Example City",
-    "is_student": False,
+    "is_student": false,
     "grades": [85, 90, 78]
    }
 ]
